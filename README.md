@@ -2,7 +2,7 @@
 
 ## Description
 
-In the modern era, having an accessible website is no longer a luxury but a necessity. This project revolved around refactoring an existing webpage for a digital marketing agency, Horiseon, to improve its web accessibility, ensuring that the website is optimized for search engines and is accessible to all users, including those with disabilities. The motivation behind this project was to enhance user experience, comply with legal standards, and optimize the site for search engines. Through this project, I enhanced my understanding of semantic HTML elements, logical structuring, and accessibility standards like providing alt attributes for images. This refactoring project stands out as it not only met the basic accessibility standards but also ensured a cleaner and well-commented codebase following the best practices, making it easy for other developers to understand and work on.
+In the modern era, having an accessible website is no longer a luxury but a necessity. This project revolved around refactoring an existing webpage for a digital marketing agency, Horiseon, to improve its web accessibility, ensuring that the website is optimized for search engines and is accessible to all users, including those with disabilities. The motivation behind this project was to enhance user experience, comply with legal standards, and optimize the site for search engines.
 
 **Live Application Link**: [Horiseon](https://robfrasercodes.github.io/bootcamp-module1-challenge/)
 
