@@ -34,8 +34,6 @@ header h1 .seo {
 header nav ul {
     list-style-type: none;
     display: inline-flex;
-    margin: 20px;
-    padding: 20px;
 }
 
 header div ul li {
