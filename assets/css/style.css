@@ -13,34 +13,32 @@ body {
 
 /* Header Styles */
 header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     padding: 20px;
     background-color: #2a607c;
     color: #ffffff;
 }
 
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
-.header h1 .seo {
+header h1 .seo {
     color: #d9dcd6;
 }
 
 /* Navigation Styles */
-.header div {
-    padding-top: 15px;
-    margin-right: 20px;
-    float: right;
-    font-size: 20px;
-}
-
-.header div ul {
+header nav ul {
     list-style-type: none;
+    display: inline-flex;
+    margin: 20px;
+    padding: 20px;
 }
 
-.header div ul li {
-    display: inline;
+header div ul li {
     margin-left: 25px;
 }
 
